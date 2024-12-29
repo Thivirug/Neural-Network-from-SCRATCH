@@ -41,7 +41,7 @@ A Python implementation of a neural network built entirely from scratch featurin
 ├── Metrics.py           # Accuracy calculation
 ├── Optimizers.py        # Various optimization algorithms
 ├── Softmax_CrossEntropy.py # Combined Softmax activation and Cross-entropy loss
-└── main.py              # Training pipeline and execution
+└── SpiralDataClassification.py     # Training pipeline and execution 
 ```
 
 ## ***Usage***
